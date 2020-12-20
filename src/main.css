@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'square_stone-7regular';
+    src: url('style-7_square-stone-7/square_stone-7-webfont.woff2') format('woff2'),
+         url('style-7_square-stone-7/square_stone-7-webfont.woff') format('woff'),
+         url('style-7_square-stone-7/square_stone-7.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+     
+     body {
+         margin: 0;
+        padding: 0;
+        font-family: "square_stone-7";
+        /* -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale; */
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+} 

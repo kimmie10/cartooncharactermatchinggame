@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "name": "Bugs Bunny",
+        "image": "images/bug_bunny.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 1,
+        "name": "Daphne Blake",
+        "image": "images/daphne.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 2,
+        "name": "Elroy Jetson",
+        "image": "images/Elroy_Jetson.png",
+        "isClicked": false
+    },
+    {
+        "id": 3,
+        "name": "George Jetson",
+        "image": "images/George_Jetson.png",
+        "isClicked": false
+    },
+    {
+        "id": 4,
+        "name": "He-Man",
+        "image": "images/he-man.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 5,
+        "name": "Jane Jetson",
+        "image": "images/jane_jetson.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 6,
+        "name": "Jerry the Cat",
+        "image": "images/jerry.png",
+        "isClicked": false
+    },
+    {
+        "id": 7,
+        "name": "Judy Jetson",
+        "image": "images/Judyjetson.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 8,
+        "name": "Scooby-Doo",
+        "image": "images/scooby-doo.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 9,
+        "name": "Shaggy Rogers",
+        "image": "images/shaggy.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 10,
+        "name": "Tom the Mouse",
+        "image": "images/tom.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 11,
+        "name": "Velma Dinkley",
+        "image": "images/velma.jpg",
+        "isClicked": false
+    }
+]

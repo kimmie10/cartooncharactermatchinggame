@@ -1,0 +1,36 @@
+.App-logo {
+    float: left;
+    font-weight: bolder;
+    font-size: xx-large;
+    list-style: none;
+}
+
+nav {
+    background-color: blue;
+    display: flex;
+    position: fixed;
+    width: 100%;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    float: right;
+    display: flex;
+    color: white;
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.scores, .msg {
+    margin-left: 15rem;
+    padding-top: 10px;
+    font-weight: bolder;
+}
+
